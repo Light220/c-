@@ -18,5 +18,4 @@ int main() {
 	PI = pi_4 * 4;
 	cout << "steps=" << steps << " PI=" << fixed << setprecision(5) << PI << endl;
 	return 0;
-
 }
